@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Morozov Alexander. I'm beginner software developer based in Moscow.
 - 👀 I’m interested in Python programming language and its applications to real-world problems.
-- 🌱 I’m currently learning backend development at [Yandex Practicum on-line school](https://practicum.yandex.ru/).
 - 📫 You can reach me on Telegram: @morozov_alexander
 
 <!---
